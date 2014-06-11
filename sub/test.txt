@@ -4,3 +4,5 @@ mod by branchC.
 mod by branchD.
 
 test remote rep.
+
+add by clone rep.
