@@ -1,2 +1,4 @@
 サブディレクトリのコミットテスト
 mod by branchA.
+mod by branchC.
+
